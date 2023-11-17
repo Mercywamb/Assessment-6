@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { NavComponent } from './nav/nav.component';
 import { AboutComponent } from './about/about.component';
 import { PlanComponent } from './plan/plan.component';
+import { HomeComponent } from './home/home.component';
 
 
 @NgModule({
@@ -14,6 +15,7 @@ import { PlanComponent } from './plan/plan.component';
     NavComponent,
     AboutComponent,
     PlanComponent,
+    HomeComponent,
     
   ],
   imports: [
